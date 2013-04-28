@@ -1,0 +1,2 @@
+module Text2ImagesHelper
+end
